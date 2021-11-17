@@ -1,11 +1,5 @@
 <h3 title="hehehe"> Hey 👋, I'm Asil!</h3>
 
-<a href="https://www.instagram.com/panot_asil/">
-  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/Asil.Watcharamaisakul">
-  <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 
 
 
